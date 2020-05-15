@@ -1,0 +1,69 @@
+.key-view img {
+    width: 100%;
+}
+.navbar {
+    background-color: rgba(255, 255, 255, 0.527);
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    z-index: 100;
+}
+.navbar-brand img {
+    width: 10%;
+    height: 10%;
+}
+.navbar-nav {
+    font-size: 100%;
+    font-weight: bold;
+}
+.main {
+    margin: 50px 0px;
+}
+.explan-main h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.icon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.icon-list {
+    margin: 0 30px;
+}
+.icon-list img {
+    width: 40%;
+}
+.step {
+    color: rgb(209, 0, 0);
+    font-weight: bold;
+}
+.explan-text {
+    text-align: center;
+}
+.text-body {
+    background-color: rgb(51, 144, 187);
+    color: white;
+    font-weight: bold;
+}
+.card {
+    margin-bottom: 50px;
+}
+.card-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bg-img {
+    background-image: url("img/car.png");
+    width: 100%;
+    height: 500px;
+    background-attachment: fixed;
+}
+.access-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
